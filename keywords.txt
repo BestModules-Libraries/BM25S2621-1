@@ -1,0 +1,23 @@
+#######################################
+# Coloring Map For （BM25S2621-1）
+#######################################
+
+#######################################
+# Classes and Objects (KEYWORD1)
+#######################################
+BM25S2621_1	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+restoreDefault	KEYWORD2
+setID	KEYWORD2
+getID	KEYWORD2
+readTemperature	KEYWORD2
+readMoisture	KEYWORD2
+readTemperatureAndMoisture	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+CHECK_OK	LITERAL1
+CHECK_ERROR	LITERAL1
